@@ -1,2 +1,2 @@
 # SandboxJava
-# SandBox for Java Misc topics practice.
+# SandBox for Misc Java topics practice.
